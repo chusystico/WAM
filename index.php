@@ -82,7 +82,6 @@
 	/*	 Fin: BACK END 			*/ 
 	/*	 Inicio: FRONT END 		*/ 
 ?>	
-
 					<script>
 						$(document).ready(function () {
 							$("#datos").DataTable({
